@@ -1,4 +1,4 @@
-#Barış Büyüktaş - Cmpe 540
+#Barış Büyüktaş
 
 import numpy as np
 import sys
